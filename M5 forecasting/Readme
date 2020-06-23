@@ -3,6 +3,7 @@ https://www.kaggle.com/c/m5-forecasting-accuracy
 https://mofc.unic.ac.cy/m5-competition/
 
 Data files are too big to be added here, please downlaod from kaggle link if needed
+Created validation_values.csv to compare predictions for validation data
 
 Aggregated the series at store and department level and after prediction used 28 day historical proportions to forecast individual series
 

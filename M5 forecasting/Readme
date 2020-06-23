@@ -2,6 +2,8 @@ The M5 forecasting comeptition held on kaggle
 https://www.kaggle.com/c/m5-forecasting-accuracy
 https://mofc.unic.ac.cy/m5-competition/
 
+Data files are too big to be added here, please downlaod from kaggle link if needed
+
 Aggregated the series at store and department level and after prediction used 28 day historical proportions to forecast individual series
 
 Evaluate - copied code for calculating public leaderboard score WRRMSSE

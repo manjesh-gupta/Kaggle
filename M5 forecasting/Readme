@@ -7,10 +7,10 @@ Created validation_values.csv to compare predictions for validation data
 
 Aggregated the series at store and department level and after prediction used 28 day historical proportions to forecast individual series
 
-Evaluate - copied code for calculating public leaderboard score WRRMSSE
+Evaluate.ipynb - copied code for calculating public leaderboard score WRRMSSE
 
 Implemented prophet model (prophet - exploring different time series) 
 prophet_full - full model for submission, WRRMSSE (validation) - 0.79607,
 
-Impleted gradient boosted regressor model (gbt - exploring different time series)
+Implemented gradient boosted regressor model (gbt - exploring different time series)
 gbt_full - full model for submission, WRRMSSE (validation) - 0.70735

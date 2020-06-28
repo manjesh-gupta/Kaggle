@@ -1,16 +1,20 @@
 The M5 forecasting comeptition held on kaggle
-https://www.kaggle.com/c/m5-forecasting-accuracy
+Point forecasts - https://www.kaggle.com/c/m5-forecasting-accuracy
+Quantile forecasts - https://www.kaggle.com/c/m5-forecasting-uncertainty
 https://mofc.unic.ac.cy/m5-competition/
 
 Data files are too big to be added here, please downlaod from kaggle link if needed
+
+EDA.ipynb - plot ith series (by item and store) 
+
 Created validation_values.csv to compare predictions for validation data
-
-Aggregated the series at store and department level and after prediction used 28 day historical proportions to forecast individual series
-
 Evaluate.ipynb - copied code for calculating public leaderboard score WRRMSSE
 
-Implemented prophet model (prophet - exploring different time series) 
-prophet_full - full model for submission, WRRMSSE (validation) - 0.79607,
+Aggregated the series at store and department level and after prediction used 28 day historical proportions to forecast individual series
+  Implemented prophet model 
+    prophet.ipynb - exploring different time series with plots 
+    prophet_full.ipynb - full model for submission, WRRMSSE (validation) - 0.79607
 
-Implemented gradient boosted regressor model (gbt - exploring different time series)
-gbt_full - full model for submission, WRRMSSE (validation) - 0.70735
+  Implemented gradient boosted regressor model 
+    gbt.ipynb - exploring different time series with plots
+    gbt_full - full model for submission, WRRMSSE (validation) - 0.70735

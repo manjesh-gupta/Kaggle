@@ -1,6 +1,5 @@
 The M5 forecasting comeptition held on kaggle
 Point forecasts - https://www.kaggle.com/c/m5-forecasting-accuracy
-Quantile forecasts - https://www.kaggle.com/c/m5-forecasting-uncertainty
 https://mofc.unic.ac.cy/m5-competition/
 
 Data files are too big to be added here, please downlaod from kaggle link if needed
@@ -18,3 +17,9 @@ Aggregated the series at store and department level and after prediction used 28
   Implemented gradient boosted regressor model 
     gbt.ipynb - exploring different time series with plots
     gbt_full - full model for submission, WRRMSSE (validation) - 0.70735
+    
+ Predicting all series individually
+    m5-lightgbm_eval.ipynb - Microsoft's LightGBM model to predict all (30490) series individually
+    This is for final prediction for submission(evaluation set)
+    This achived a private LB score of 0.63130 [214th out of 5558, Silver medal - Top 4%]
+    WRRMSSE in validation phase was 0.54941

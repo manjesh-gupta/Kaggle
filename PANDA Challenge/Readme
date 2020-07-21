@@ -4,6 +4,8 @@ https://www.kaggle.com/c/prostate-cancer-grade-assessment
 Problem: Computer Vision (multi class classification)
 
 Data files are too big to be added here, please see kaggle link
+Used this dataset for training - https://www.kaggle.com/raghaw/panda-dataset-medium-25-256-256
+This might be deleted by Kaggle user, so here is a link how to create these images - https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion/161500
 
 The whole slide images (tiff files) are too big to feed into a CNN, so the idea is to cut relevant tiles from these images and then use them as input.
 

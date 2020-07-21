@@ -2,6 +2,8 @@ The M5 forecasting comeptition held on kaggle
 Point forecasts - https://www.kaggle.com/c/m5-forecasting-accuracy
 https://mofc.unic.ac.cy/m5-competition/
 
+Problem: Time Series Forecasting
+
 Data files are too big to be added here, please downlaod from kaggle link if needed
 
 EDA.ipynb - plot ith series (by item and store) 

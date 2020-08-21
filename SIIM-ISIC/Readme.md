@@ -40,10 +40,15 @@ CV_results.xlsx - Cross Validated results for all experiments
 ###### Final Ensemble Model
 
 **Sr. No. -Size -Model -OOF_AUC -Public LB -Private LB -Weight**
+
 1 -192 -B6 -0.906 -0.9323 -0.9218 -2
+
 2 -256 -B7 -0.908 -0.9339 -0.9246 -4
+
 3 -384 -B6 -0.914 -0.9434 -0.9255 -5
+
 4 -512 -B6 -0.909 -0.9499 -0.9205 -4
+
 5 -768 -B6 -0.918 -0.9493 -0.9285 -5
 
 Image Ensemble - Random searched the weights for max OOF_AUC.

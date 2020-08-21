@@ -1,8 +1,8 @@
 # Kaggle
 
-### Here, I try to implement the ML competitions from kaggle.com
+###### Here, I try to implement the ML competitions from kaggle.com
 
-### Kaggle Profile - https://www.kaggle.com/manjeshg03/competitions
+###### Kaggle Profile - https://www.kaggle.com/manjeshg03/competitions
 
 **Titanic** - [*Binary Classification*] Survival based on various features [For learning, not an actual competition]
 

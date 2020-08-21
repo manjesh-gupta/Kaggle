@@ -58,7 +58,7 @@ Gradient Boosted Trees (5 fold CV) with 3 features only (age, sex, location)
 OOF_AUC - 0.68 Pub. LB - 0.6777 Pri. LB - 0.6639
 
 Final ensemble (0.87 * image ensemble + 0.13 * Gradient Boosted Tree Model) [Experimented with weights]
-OOF_AUC - 0.9382 Pub. LB - 0.9548 and 72/3319, Silver medal - Top 3% on private LB
+**OOF_AUC - 0.9382 Pub. LB - 0.9548 and 72/3319, Silver medal - Top 3% on private LB**
 
 
 Important Links for later reference - 

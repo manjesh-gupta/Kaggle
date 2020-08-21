@@ -24,5 +24,5 @@ Aggregated the series at store and department level and after prediction used 28
 Predicting all series individually
     m5-lightgbm_eval.ipynb - Microsoft's LightGBM model to predict all (30490) series individually
     This is for final prediction for submission(evaluation set)
-    This achived a private LB score of 0.63130 [214th out of 5558, Silver medal - Top 4%]
+    This achived a private LB score of 0.63130 [**214th out of 5558, Silver medal - Top 4%**]
     WRRMSSE in validation phase was 0.54941

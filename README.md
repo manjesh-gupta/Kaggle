@@ -2,6 +2,8 @@
 
 ## Here, I try to implement the ML competitions from kaggle.com
 
+## Kaggle Profile - https://www.kaggle.com/manjeshg03/competitions
+
 **Titanic** - [*Binary Classification*] Survival based on various features [For learning, not an actual competition]
 
 **SIIM-ISIC** - [*Computer Vision, Binary Classifiation*] Melanoma (skin cancer) classification [**Silver medal, Top 3% private leaderboard, 72/3319**]

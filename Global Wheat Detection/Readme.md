@@ -5,7 +5,7 @@ Problem: Computer Vision (Object Detection)
 
 Data files are too big to be added here, please see kaggle link
 
-Used this baseline(https://www.kaggle.com/shonenkov) -
+Used this baseline(courtesy of https://www.kaggle.com/shonenkov) -
 https://www.kaggle.com/shonenkov/training-efficientdet
 
 **I do not have expertise in Object Detection. I used this competition to learn about the basics of the same.**

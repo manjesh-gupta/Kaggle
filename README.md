@@ -4,7 +4,7 @@
 
 ###### Kaggle Profile - https://www.kaggle.com/manjeshg03/competitions
 
-**SIIM-ISIC** - [*Computer Vision, Binary Classifiation*] Melanoma (skin cancer) classification [**Silver medal, Top 3% private leaderboard, 70/3319**]
+**SIIM-ISIC** - [*Computer Vision, Binary Classifiation*] Melanoma (skin cancer) classification [**Silver medal, Top 3% private leaderboard, 70/3314**]
 
 **M5 forecasting** - [*Time Series*] Prediction of sales data from Walmart [**Silver medal, Top 4% private leaderboard, 214/5558**]
 
